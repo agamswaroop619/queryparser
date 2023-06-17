@@ -4,3 +4,4 @@ public interface queryInterface {
 
     public void strtojson();
 }
+
