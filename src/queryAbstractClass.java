@@ -2,12 +2,12 @@ public abstract class queryAbstractClass implements queryInterface{
 
     String query;
     @Override
-    public String queryParser(String s) {
+    public String queryParser() {
         return null;
     }
 
     @Override
-    public void strtojson(String s1) {
+    public void strtojson() {
 
     }
 }

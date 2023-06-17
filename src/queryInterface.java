@@ -1,6 +1,6 @@
 public interface queryInterface {
 
-    public String queryParser(String s);
+    public String queryParser();
 
-    public void strtojson(String s);
+    public void strtojson();
 }
